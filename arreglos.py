@@ -20,7 +20,18 @@ print(numeros)
 numeros.remove(30)
 print(numeros)
 
-
 frutas=["manzana", "pera", "platano", "fresa"]
 frutas.remove("platano")
 print(frutas)
+
+#Agregar
+frutas.append("kiwi")
+print(frutas)
+
+frutas[2]="sandia"
+print(frutas)
+
+arreglo=[]
+n=int(input("Ingrese el tamaño del arreglo: "))
+arreglo=[0]
+ 
