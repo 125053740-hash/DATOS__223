@@ -3,7 +3,7 @@ matriz=[
     [4,5,6]
 ]
           
-for fila in matriz:
+ for fila in matriz:
     print(fila)
 
 print("Mostrar el 6")
